@@ -5,7 +5,7 @@ URL_ENDPOINT = "https://opentdb.com/api.php"
 parameters = {
     "amount": 10,
     "type": "boolean",
-    "category": 23,
+    # "category": 23,
     "difficulty": "easy",
 }
 
